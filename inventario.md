@@ -1,3 +1,5 @@
 2113196-2116422
 processori
-schede_madriElettronica Padovana
+schede_madri
+Elettronica Padovana
+## Componenti
